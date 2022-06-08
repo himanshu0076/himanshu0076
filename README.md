@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Himanshu Rawat</h1>
-<h3 align="center">A passionate developer and competitive programmer from India</h3>
+<h3 align="center">A passionate developer and programmer from India</h3>
 <img align="center" alt="Coding" width="200" src="https://media.giphy.com/media/xSM46ernAUN3y/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu0076&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu0076" /> </p>
