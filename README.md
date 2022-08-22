@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Himanshu Rawat</h1>
+<h1 align="center">👋, I'm Himanshu Rawat</h1>
 <h3 align="center">A passionate developer and programmer from India</h3>
 <img align="center" alt="Coding" width="200" src="https://media.giphy.com/media/xSM46ernAUN3y/giphy.gif">
 
