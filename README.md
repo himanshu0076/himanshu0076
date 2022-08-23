@@ -1,17 +1,20 @@
 
 <h1 align="center">👋, I'm Himanshu Rawat</h1>
 <h3 align="center">A passionate developer and programmer from India</h3>
-<img align="center" alt="Coding" width="200" src="https://media.giphy.com/media/xSM46ernAUN3y/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu0076&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu0076" /> </p>
 
-<p align="left"> <a href="https://twitter.com/himanshurawttt" target="blank"><img src="https://img.shields.io/twitter/follow/himanshurawttt?logo=twitter&style=for-the-badge" alt="himanshurawttt" /></a> </p>
+
+
+
 
 - 🌱 I’m currently learning **Data structures & Algorithms**
 
 - 💬 Ask me about **C,C++,MySQL**
 
 - 📫 How to reach me **himanshu76rawat@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu0076&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu0076" /> </p>
+<p align="left"> <a href="https://twitter.com/himanshurawttt" target="blank"><img src="https://img.shields.io/twitter/follow/himanshurawttt?logo=twitter&style=for-the-badge" alt="himanshurawttt" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
