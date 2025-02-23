@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning **Data structures & Algorithms**
+- 🌱 I’m currently learning **Machine Learning & Artificial Intelligence**
 
-- 💬 Ask me about **C,C++,MySQL**
+- 💬 Ask me about **C,C++,MySQL,Data structures & Algorithms**
 
 - 📫 How to reach me **himanshu76rawat@gmail.com**
 
